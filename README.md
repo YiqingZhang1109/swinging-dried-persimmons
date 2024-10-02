@@ -1,5 +1,5 @@
-![GIF_20241002134254092 (1)](https://github.com/user-attachments/assets/174e704b-8f1e-4b37-bcdc-b7b7b31acdc6)
 
+<img src="https://github.com/user-attachments/assets/174e704b-8f1e-4b37-bcdc-b7b7b31acdc6" width="400">
 
 # Design Goal
 
@@ -34,4 +34,4 @@ The Chinese character for persimmon “柿” is also pronounced the same as “
 
 If you want to make the display fancier,  you can add more drawing to the envelop before attaching the hardware.
 
-![126041727370142_ pic](https://github.com/user-attachments/assets/82486c62-e782-49f8-a535-b1c3597b3f81)
+<img src="https://github.com/user-attachments/assets/82486c62-e782-49f8-a535-b1c3597b3f81" width="280">
